@@ -1,4 +1,4 @@
-# My name is Eliot and i want to **_die_** just testing
+# CASEUS
 ## Dragon Boat Racing Game
 ### Group 7
 
