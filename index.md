@@ -7,5 +7,5 @@
 
 
 ## 15th October 2020
-#### we created this website :)
+We created this website :)
 
