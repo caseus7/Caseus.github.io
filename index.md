@@ -1,4 +1,4 @@
-# **CASEUS** Dragon Boat Racing Game - Group 7
+# CASEUS - *Dragon Boat Racing Game* - Group 7
 ---
 ## Our Aims:
 > To create the greatest dragon boat racing simulator 
