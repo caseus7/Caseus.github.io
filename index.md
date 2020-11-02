@@ -2,11 +2,11 @@
 ## Dragon Boat Racing Game - Group 7
 
 ## Our Aims:
-- To create the greatest dragon boat racing simulator 
+> To create the greatest dragon boat racing simulator :rowboat:
 
 
 ### 15th October 2020
-We created this website :)
+* We created this website :)
 
 ### 22nd October 2020
 * Made the decision to use LibGDX
