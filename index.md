@@ -6,6 +6,7 @@
 ## Summary of Meetings:
 ### 15th October 2020
 * We created this website :)
+* Analyised the notes from our Customer Meeting
 
 ### 22nd October 2020
 * Made the decision to use LibGDX
