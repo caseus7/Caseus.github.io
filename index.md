@@ -1,5 +1,5 @@
 # CASEUS :rowboat: Dragon Boat Racing Game - Group 7
-
+---
 ## Our Aims:
 > To create the greatest dragon boat racing simulator 
 
