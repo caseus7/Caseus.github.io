@@ -1,10 +1,9 @@
-# CASEUS
-### Dragon Boat Racing Game - Group 7
+# CASEUS :rowboat: Dragon Boat Racing Game - Group 7
 
 ## Our Aims:
-> To create the greatest dragon boat racing simulator :rowboat:
+> To create the greatest dragon boat racing simulator 
 
-
+## Summary of Meetings:
 ### 15th October 2020
 * We created this website :)
 
