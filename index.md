@@ -21,3 +21,7 @@
 ### 5th Novemeber 2020
 * Started writing Risk Assessment 
 * LibGDX project development
+
+### 12th Novemeber 2020
+* Discussed game implementation
+* Reviewed deliverable specifications 
