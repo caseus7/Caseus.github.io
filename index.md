@@ -3,6 +3,8 @@
 ## Our Aims:
 > To create the greatest dragon boat racing simulator 
 
+## Documentation links:
+> here
 ## Summary of Meetings:
 ### 15th October 2020
 * Set up our github organisitation and created this website 
@@ -16,7 +18,6 @@
 * Created our LibGDX project and made sure everyone could open it in IntelliJ
 * Discussed the requirement analysis document
 * Divided up tasks to complete 
-
 
 ### 5th Novemeber 2020
 * Started writing Risk Assessment 
