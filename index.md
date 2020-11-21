@@ -5,12 +5,18 @@
 > Specialising in pixel art boat racing games.
 
 ## The Caseus team:
-> Eliot Sheehan
-> Matthew Turner
-> Dan Atkinson
-> Hannah Pope
-> Mayan Lamont
-> Divyansh Pandey
+<table>
+<tr>
+    <td>Eliot Sheehan</td>
+    <td>Matthew Turner</td>
+    <td>Dan Atkinson</td>
+</tr>
+<tr>
+    <td>Hannah Pope</td>
+    <td>Mayan Lamont</td>
+    <td>Divyansh Pandey</td>
+</tr>
+</table>
 
 ## Documentation links:
 > here
