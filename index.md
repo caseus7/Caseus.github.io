@@ -37,11 +37,12 @@
 
 ### 5th Novemeber 2020
 * Once we finalised the Risk Assement we gave the task of tabulating it to Hannah
-* LibGDX project development
+* Continued on the LibGdx development of our game
 
 ### 12th Novemeber 2020
 * Discussed game implementation
-* Reviewed deliverable specifications 
+* Reviewed the assement document to see what the specific deliverables were 
+* Eliot started working on the Requirements intro on the importance and method of collecting requirements
 
 ### 19th Novemeber 2020
-* -
+* The Caseus team came together to discuss putting together a zip file of the deliverables in preperation of the hand in date
