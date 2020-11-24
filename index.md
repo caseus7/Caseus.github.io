@@ -1,7 +1,7 @@
 # CASEUS - *Dragon Boat Racing Game* - Group 7
 ---
 
-![test](https://static.dezeen.com/uploads/2019/04/ikea-logo-new-sq-1.jpg) 
+![test](https://github.com/caseus7/caseus7.github.io/blob/main/Logo1.png) 
 ## Who we are and What we do:
 We are a young group of students who have come together to form the best game developing company.  
 Specialising in pixel art boat racing games.
