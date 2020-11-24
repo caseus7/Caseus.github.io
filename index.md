@@ -35,7 +35,7 @@ Requirements Document
 > [Req1.pdf](https://drive.google.com/file/d/1FSL9tflQ-SEmm2xfH9Azc62kcWjRveqF/view)
 
 Architecture Document
-> [Arch1.pdf](https://drive.google.com/file/d/1HSY0ixtY0RyrFoEga8YdVVPRJHuaD4aN/view)
+> [Arch1.pdf](https://drive.google.com/file/d/1cTUXrDGgcZ0aHQHgrKYdA_CpEeQsNX0E/view)
 
 Method Selection & Planning Document
 > [Plan1.pdf](https://drive.google.com/file/d/1QUDI3KA38_NgoOyMOMrPXzB_xLPd4H6W/view)
