@@ -31,10 +31,10 @@ Method Selection & Planning
 > [Plan1.pdf](https://drive.google.com/file/d/1QUDI3KA38_NgoOyMOMrPXzB_xLPd4H6W/view)
 
 Risk Assessment & Mitigation
-> [Risk1.pdf](https://drive.google.com/file/d/1XR8qMqKK9Zn_hfCM2RH0TEpwuMLaFiHv/view)
+> [Risk1.pdf](https://drive.google.com/file/d/1ut6tTTObqJQBA9GkuJ75YOySpRmy9FJI/view)
 
 Implementation
-> [Impl1.pdf]()
+> [Impl1.pdf](https://drive.google.com/file/d/10QFd2gbcnkFa6i-V6GW5xvRuoFw6LqLe/view)
 
 ### Other Links:
 > [Gantt Chart](https://drive.google.com/file/d/17091bU3gAFFXEjqDDWHA7CDYR_XZ-Hx5/view)
