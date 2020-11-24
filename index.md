@@ -27,6 +27,9 @@ Game Executable
 GitHub Repository
 > [Link](https://github.com/caseus7/Boat_Game)
 
+Deliverables
+> [Caseus.zip](https://drive.google.com/file/d/1KSwPKU8Tzx5GCBl6uuTsZ-LnCB2hPN1z/view)
+
 ## Documentation Links:
 Requirements Document
 > [Req1.pdf](https://drive.google.com/file/d/1FSL9tflQ-SEmm2xfH9Azc62kcWjRveqF/view)
