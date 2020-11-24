@@ -21,7 +21,7 @@ Specialising in pixel art boat racing games.
 </table>
 
 ## Documentation links:
-*Requirements Document
+Requirements Document
 > [Req1.pdf](https://drive.google.com/file/d/1FSL9tflQ-SEmm2xfH9Azc62kcWjRveqF/view)
 
 
