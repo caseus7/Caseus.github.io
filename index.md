@@ -37,8 +37,8 @@ Implementation
 >[Impl1.pdf]()
 
 ### Other Links:
-> [Gantt Chart](https://drive.google.com/file/d/17091bU3gAFFXEjqDDWHA7CDYR_XZ-Hx5/view)
-> [Entity Component System](https://drive.google.com/file/d/1-0BYeaBYZajMjaaCvJ4HcqnIP6DTO433/view)
+[Gantt Chart](https://drive.google.com/file/d/17091bU3gAFFXEjqDDWHA7CDYR_XZ-Hx5/view)
+[Entity Component System](https://drive.google.com/file/d/1-0BYeaBYZajMjaaCvJ4HcqnIP6DTO433/view)
 
 ## Our Meeting Minutes:
 
