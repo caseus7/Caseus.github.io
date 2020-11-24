@@ -28,7 +28,7 @@ GitHub Repository
 > [Link](https://github.com/caseus7/Boat_Game)
 
 Deliverables
-> [Caseus.zip](https://drive.google.com/file/d/1KSwPKU8Tzx5GCBl6uuTsZ-LnCB2hPN1z/view)
+> [Caseus.zip](https://drive.google.com/file/d/1zHhhD7JMA92MO6xTxleaPGVIw9wMNQtz/view)
 
 ## Documentation Links:
 Requirements Document
