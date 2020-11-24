@@ -20,7 +20,7 @@ Specialising in pixel art boat racing games.
 </tr>
 </table>
 
-### Code Links:
+## Code Links:
 Game Executable
 > [desktop-1.0.jar](https://drive.google.com/file/d/1nkzHetLPmp4L0vKL77g89zfu8rYi00yr/view)
 
@@ -46,7 +46,7 @@ Implementation Document
 Self-Assessment Document
 > [SelfAss1.pdf](https://drive.google.com/file/d/1TIFbl7s1PTmtJhPAHl4VKf1GSZ2jRQ07/view)
 
-### Other Links:
+## Other Links:
 > [Gantt Chart](https://drive.google.com/file/d/17091bU3gAFFXEjqDDWHA7CDYR_XZ-Hx5/view)
 
 > [Entity Component System](https://drive.google.com/file/d/1-0BYeaBYZajMjaaCvJ4HcqnIP6DTO433/view)
