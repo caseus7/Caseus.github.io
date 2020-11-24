@@ -43,6 +43,8 @@ Implementation
 
 > [State Diagram](https://drive.google.com/file/d/1A-8hkb9p0aJDIfLyAByiRVSMpjgJpbwd/view)
 
+> [Class Diagram](https://drive.google.com/file/d/1durNPJFmt9rBDEaGzAeTJyfbaZ78Z232/view)
+
 ## Our Meeting Minutes:
 
 ### 8th October 2020
