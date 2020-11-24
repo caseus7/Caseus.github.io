@@ -28,7 +28,7 @@ Architecture Document
 > [Arch1.pdf]()
 
 Method Selection & Planning
-> [Plan1.pdf](https://drive.google.com/file/d/1BHkcI18cRa5RwvZPlsE7qwBcefPRhygu/view)
+> [Plan1.pdf](https://drive.google.com/file/d/1QUDI3KA38_NgoOyMOMrPXzB_xLPd4H6W/view)
 
 Risk Assessment & Mitigation
 >[Risk1.pdf](https://drive.google.com/file/d/1XR8qMqKK9Zn_hfCM2RH0TEpwuMLaFiHv/view)
