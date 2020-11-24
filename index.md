@@ -21,7 +21,7 @@ Specialising in pixel art boat racing games.
 </table>
 
 ## Documentation links:
-> [link1](https://drive.google.com/drive/u/1/folders/1WxVaU3CasiF3Rz9-Scoo5xGFtItkIUB8)
+> [link1](https://drive.google.com/file/d/1FSL9tflQ-SEmm2xfH9Azc62kcWjRveqF/view)
 
 
 ## Our Meeting Minutes:
