@@ -24,6 +24,18 @@ Specialising in pixel art boat racing games.
 Requirements Document
 > [Req1.pdf](https://drive.google.com/file/d/1FSL9tflQ-SEmm2xfH9Azc62kcWjRveqF/view)
 
+Architecture Document
+> [Arch1.pdf]()
+
+Method Selection & Planning
+> [Plan1.pdf](https://drive.google.com/file/d/1BHkcI18cRa5RwvZPlsE7qwBcefPRhygu/view)
+
+Risk Assessment & Mitigation
+>[Risk1.pdf](https://drive.google.com/file/d/1XR8qMqKK9Zn_hfCM2RH0TEpwuMLaFiHv/view)
+
+Implementation
+>[Impl1.pdf]()
+
 
 ## Our Meeting Minutes:
 ### 15th October 2020
