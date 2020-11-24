@@ -36,6 +36,8 @@ Risk Assessment & Mitigation
 Implementation
 >[Impl1.pdf]()
 
+### Other Links:
+> [Gantt Chart](https://drive.google.com/file/d/17091bU3gAFFXEjqDDWHA7CDYR_XZ-Hx5/view)
 
 ## Our Meeting Minutes:
 
