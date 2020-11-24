@@ -27,14 +27,17 @@ Requirements Document
 Architecture Document
 > [Arch1.pdf](https://drive.google.com/file/d/1HSY0ixtY0RyrFoEga8YdVVPRJHuaD4aN/view)
 
-Method Selection & Planning
+Method Selection & Planning Document
 > [Plan1.pdf](https://drive.google.com/file/d/1QUDI3KA38_NgoOyMOMrPXzB_xLPd4H6W/view)
 
-Risk Assessment & Mitigation
+Risk Assessment & Mitigation Document
 > [Risk1.pdf](https://drive.google.com/file/d/1ut6tTTObqJQBA9GkuJ75YOySpRmy9FJI/view)
 
-Implementation
+Implementation Document
 > [Impl1.pdf](https://drive.google.com/file/d/10QFd2gbcnkFa6i-V6GW5xvRuoFw6LqLe/view)
+
+Self-Assessment Document
+> [SelfAss1.pdf](https://drive.google.com/file/d/1TIFbl7s1PTmtJhPAHl4VKf1GSZ2jRQ07/view)
 
 ### Other Links:
 > [Gantt Chart](https://drive.google.com/file/d/17091bU3gAFFXEjqDDWHA7CDYR_XZ-Hx5/view)
