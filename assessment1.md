@@ -1,7 +1,7 @@
 # Assessment 1
 ---
 
-<img src="/Boat Game.png" alt="drawing" width="500" style="position: center;"/>
+<img src="/Boat Game.png" alt="drawing" width="500" class="center"/>
 
 ## Code Links:
 Game Executable
