@@ -1,9 +1,7 @@
 # CASEUS - *Dragon Boat Racing Game* - Group 7
 ---
-<div style="text-align: center;">
-    <img src="/Logo1.png" alt="drawing" width="300"/> 
-</div>
 
+<img src="/Logo1.png" alt="drawing" width="300"/> 
 
 ## Who we are and What we do:
 We are a young group of students who have come together to form the best game developing company.  
