@@ -1,7 +1,8 @@
 # CASEUS - *Dragon Boat Racing Game* - Group 7
 ---
-
-<img src="/Logo1.png" alt="drawing" width="300" class="center"/> 
+<div style="text-align: center;">
+    <img src="/Logo1.png" alt="drawing" width="300"/> 
+</div>
 
 
 ## Who we are and What we do:
