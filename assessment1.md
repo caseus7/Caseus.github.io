@@ -1,5 +1,8 @@
 # Assessment 1
 ---
+
+<img src="/Boat Game.png" alt="drawing" width="500"/>
+
 ## Code Links:
 Game Executable
 > [desktop-1.0.jar](https://drive.google.com/file/d/1nkzHetLPmp4L0vKL77g89zfu8rYi00yr/view)
